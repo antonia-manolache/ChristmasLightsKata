@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasLightsKata", "ChristmasLightsKata\ChristmasLightsKata.csproj", "{CF236BB1-296F-4FDC-AA61-B1360D3FB267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasLightsTests", "ChristmasLightsTests\ChristmasLightsTests.csproj", "{3E4C7A4E-B98D-4E4C-9DB8-8F7BB3E967C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF236BB1-296F-4FDC-AA61-B1360D3FB267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF236BB1-296F-4FDC-AA61-B1360D3FB267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF236BB1-296F-4FDC-AA61-B1360D3FB267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF236BB1-296F-4FDC-AA61-B1360D3FB267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4C7A4E-B98D-4E4C-9DB8-8F7BB3E967C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4C7A4E-B98D-4E4C-9DB8-8F7BB3E967C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4C7A4E-B98D-4E4C-9DB8-8F7BB3E967C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4C7A4E-B98D-4E4C-9DB8-8F7BB3E967C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E1203D-E193-42B8-91D2-C8179BD58760}
+	EndGlobalSection
+EndGlobal
